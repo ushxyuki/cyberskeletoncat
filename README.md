@@ -46,7 +46,9 @@ cyberskeletoncat/
 ├── cybercat.html
 └── README.md
 
-👤 Author
+
+
+## 👤 Author
 
 Created by ushxyuki
 
