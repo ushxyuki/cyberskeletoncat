@@ -1,16 +1,17 @@
 # CyberSkeletonCat 🐱💀⚡
 
-CyberSkeletonCat is a creative animated web project built with HTML, CSS, and JavaScript.  
-It features a cyber-style skeleton cat design with canvas drawing, animation, and neon visual effects.
+CyberSkeletonCat is a creative animated web project built with **HTML, CSS, and JavaScript**.  
+It features a cyber-style skeleton cat design with canvas drawing, smooth animation, and neon visual effects.
 
 ## ✨ Features
 
 - Cyber-themed animated cat
 - HTML Canvas drawing
 - JavaScript animation
-- Neon-style effects
+- Neon-style visual effects
 - Single-page web project
 - Easy to open in any browser
+- Demo video included
 
 ## 🛠️ Technologies Used
 
@@ -25,13 +26,15 @@ It features a cyber-style skeleton cat design with canvas drawing, animation, an
 
 [Watch Demo Video](assets/videos/0522%282%29%20%281%29%20%281%29.mp4)
 
+> If GitHub does not preview the video directly, click **View raw** or download the file to watch it.
+
 ## 🚀 How to Run
 
 1. Download or clone this repository.
 2. Open the project folder.
 3. Double-click `cybercat.html`.
 
-Or open it in VS Code and use **Live Server**.
+Or open the project in VS Code and use the **Live Server** extension.
 
 ## 📁 Project Structure
 
