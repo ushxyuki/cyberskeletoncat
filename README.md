@@ -23,7 +23,7 @@ It features a cyber-style skeleton cat design with canvas drawing, animation, an
 
 ## 🎥 Demo Video
 
-[Watch Demo Video](assets/videos/0522.mp4)
+[Watch Demo Video](assets/videos/0522%282%29%20%281%29%20%281%29.mp4)
 
 ## 🚀 How to Run
 
@@ -39,6 +39,6 @@ Or open it in VS Code and use **Live Server**.
 cyberskeletoncat/
 ├── assets/
 │   └── videos/
-│       └── 0522.mp4
+│       └── 0522(2) (1) (1).mp4
 ├── cybercat.html
 └── README.md
